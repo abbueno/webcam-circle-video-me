@@ -5,17 +5,6 @@
 <h1 align="center">Mini Video Me</h1>
 <p align="center">A small webcam player focused on providing an easy way to add and control your webcam during recordings.</p>
 
-<!-- <h3 align="center">
-  <a href="https://github.com/maykbrito/mini-video-me/actions/workflows/build.yml" target="_blank">
-    <img alt="Build" src="https://github.com/maykbrito/mini-video-me/actions/workflows/build.yml/badge.svg" />
-  </a>
-  <a href="#" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
-  </a>
-  <a href="https://twitter.com/maykbrito" target="_blank">
-    <img alt="Twitter: maykbrito" src="https://img.shields.io/twitter/follow/maykbrito.svg?style=social" />
-  </a>
-</h3> -->
 
 <br />
 
@@ -36,12 +25,6 @@ Run it using:
 ```sh
 yarn start
 ```
-
-## Preview
-
-Sample preview running the app:
-
-![Preview](.github/preview.png)
 
 ## Usage & settings
 
@@ -125,6 +108,4 @@ you can build with `clip-path`.
 - Github: [@maykbrito](https://github.com/maykbrito)
 - LinkedIn: [@maykbrito](https://linkedin.com/in/maykbrito)
 
-## Show your support
 
-Give a ⭐️ if this project helped you!
